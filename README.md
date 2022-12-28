@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
-  <section></section>
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
@@ -48,7 +48,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/egba001)
+- Frontend Mentor - [@egba001](https://www.frontendmentor.io/profile/egba001)
 - Twitter - [@egba791](https://www.twitter.com/egba791)
 
 
